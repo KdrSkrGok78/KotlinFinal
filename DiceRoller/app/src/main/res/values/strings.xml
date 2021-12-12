@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Salla</string>
+    <string name="let_roll">Let Roll</string>
+    <string name="result"></string>
+    <string name="description">Uygulamaya hoş geldin işssiz arkadaşım eğer ne yapacağını bilmiyorsan sadece sallaya basman
+        yeterli. Çıkan zar yüzü x 10 dk kadar o işle meşgul ol seviceksin emin ol.</string>
+</resources>
